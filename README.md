@@ -17,7 +17,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=009639)
-![Prometheus](https://img.shields.io/badge/-Prometheus-090909?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=FCC624)
