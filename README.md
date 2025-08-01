@@ -17,7 +17,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-090909?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana&logoColor=F46800)
