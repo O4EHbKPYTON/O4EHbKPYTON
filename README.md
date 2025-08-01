@@ -28,9 +28,9 @@
 ### 🏆 Алгоритмы и достижения:
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-090909?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/HEO4EHb/)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/HEO4EHb?border=0&theme=dark)](https://leetcode.com/u/HEO4EHb/)
-
 [![Codeforces](https://img.shields.io/badge/-Codeforces-090909?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/Foky)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/HEO4EHb?border=0&theme=dark)](https://leetcode.com/u/HEO4EHb/)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Foky&theme=dark)](https://codeforces.com/profile/Foky)
 
 ### 📈 GitHub статистика:
