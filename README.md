@@ -2,40 +2,25 @@
 
 ### ✨ Обо мне:
 
-* **БФУ им. Канта**, 2 курс | Компьютерные науки
+* **БФУ им. Канта**, 2 курс | Высшая школа компьютерных наук и искусственного интеллекта
 * Backend-разработчик (Go/PHP)
-* Победитель хакатона "Моя профессия - ИТ" (2 место)
+* Финалист хакатона "Моя профессия - ИТ" (2 место)
 * Алгоритмический программист (Codeforces, LeetCode)
-* Командный лидер и организатор
 
-> *"Люблю сложные задачи, командную работу и постоянное развитие!"*
-
-### 🛠️ Технологический стек:
-
-#### 💻 Языки:
+### 🛠️ Языки и инструменты :
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=777BB4)
-
-#### 🛠️ Backend:
 ![REST API](https://img.shields.io/badge/-REST_API-090909?style=for-the-badge&logo=api&logoColor=FF4F00)
 ![gRPC](https://img.shields.io/badge/-gRPC-090909?style=for-the-badge&logo=grpc&logoColor=4285F4)
 ![JWT](https://img.shields.io/badge/-JWT-090909?style=for-the-badge&logo=jsonwebtokens)
-
-#### 🗄️ Базы данных:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-#### 🐳 Инфраструктура:
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=009639)
-
-#### 📊 Мониторинг:
 ![Prometheus](https://img.shields.io/badge/-Prometheus-090909?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana&logoColor=F46800)
-
-#### 🔧 Инструменты:
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
