@@ -25,13 +25,24 @@
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
 
-### 🏆 Алгоритмы и достижения:
+### 🏆 Алгоритмы и соревнования:
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-090909?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/HEO4EHb/)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-090909?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/Foky)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/HEO4EHb?border=0&theme=dark)](https://leetcode.com/u/HEO4EHb/)
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Foky&theme=dark)](https://codeforces.com/profile/Foky)
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://leetcode.com/u/HEO4EHb/">
+        <img src="https://img.shields.io/badge/-LeetCode-090909?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
+        <img src="https://leetcard.jacoblin.cool/HEO4EHb?border=0&theme=dark&width=400" alt="LeetCode Stats" width="100%">
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://codeforces.com/profile/Foky">
+        <img src="https://img.shields.io/badge/-Codeforces-090909?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Foky&theme=dark&width=400" alt="Codeforces Stats" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 📈 GitHub статистика:
 
