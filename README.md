@@ -13,7 +13,6 @@
 ![gRPC](https://img.shields.io/badge/-gRPC-090909?style=for-the-badge&logo=grpc&logoColor=4285F4)
 ![JWT](https://img.shields.io/badge/-JWT-090909?style=for-the-badge&logo=jsonwebtokens)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=009639)
