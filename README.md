@@ -1,12 +1,12 @@
-## 👋 Привет, я Ян Матвеев!
+## Привет, я Ян Матвеев!
 
-### ✨ Обо мне:
+### Обо мне:
 
 * **БФУ им. Канта**, 2 курс | Высшая школа компьютерных наук и искусственного интеллекта
 * Backend-разработчик (Go/PHP)
 * Финалист хакатона "Моя профессия - ИТ" (2 место)
 
-### 🛠️ Языки и инструменты :
+### Языки и инструменты :
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=777BB4)
 ![REST API](https://img.shields.io/badge/-REST_API-090909?style=for-the-badge&logo=api&logoColor=FF4F00)
@@ -21,12 +21,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
 
-### 🏆 Алгоритмы и достижения:
+### Алгоритмы и достижения:
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Fokyyy?border=0&theme=dark)](https://leetcode.com/u/Fokyyy/)
 [![Codeforces Full Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Foky&theme=dark&days=1800)](https://codeforces.com/profile/Foky)
 
-### 📈 GitHub статистика:
+### GitHub статистика:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=O4EHbKPYTON&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=O4EHbKPYTON&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
